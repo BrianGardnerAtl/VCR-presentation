@@ -1,0 +1,6 @@
+This is an introduction to using the VCR ruby gem to test applications interactions
+with third party APIs.
+
+How to view:
+  $ showoff serve
+  visit http://localhost:9090
