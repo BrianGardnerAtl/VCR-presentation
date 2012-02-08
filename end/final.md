@@ -10,6 +10,10 @@
 
 ![shameless plug](shameless_plug.png)
 
-!SLIDE
+!SLIDE bullets
 
 # Thanks! #
+
+* Follow me on twitter @bgardner7
+
+* github.com/bgardner7/VCR-presentation
