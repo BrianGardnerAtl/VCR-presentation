@@ -1,0 +1,9 @@
+{ 
+  "name": "VCR",
+  "sections": [ 
+    {"section":"title"},
+    {"section":"about_me"},
+    {"section":"vcr"},
+    {"section":"end"}
+  ]
+}
